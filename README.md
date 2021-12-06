@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Daanziaat
+- 👀 I’m interested in ICT, Tech, Games, Stocks and Crypto
+- 🌱 I’m currently learning Xamarin and C#
