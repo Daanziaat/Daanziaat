@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Daanziaat
 - 👀 I’m interested in WebDev, MobileDev and GameDev
-- 🌱 I’m currently learning Blazor, Azure, Blender and Unreal Engine
+- 🌱 I’m currently learning Astro and Azure.
